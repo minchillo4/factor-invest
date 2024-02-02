@@ -3,13 +3,11 @@
 
 ## Sobre o Projeto
 
-Este projeto simplifica a análise de ações na B3, a bolsa de valores brasileira, utilizando a metodologia de investimento por fatores. Destacamos três categorias de fatores:
+No mundo dos investimentos, tomar decisões informadas é essencial para o sucesso. Com a ascensão da tecnologia e o acesso a uma vasta quantidade de dados, os investidores brasileiros têm agora a capacidade de realizar análises mais precisas e abrangentes do mercado de ações. Essa abundância de informações proporciona uma vantagem significativa, permitindo uma compreensão mais profunda das tendências do mercado, dos fundamentos das empresas e dos padrões de comportamento dos investidores.
 
-1. **Fatores Macroeconômicos:** Influenciam diferentes classes de ativos com base em mudanças macroeconômicas.
-2. **Fatores Estatísticos ou Implícitos:** Resultados estatísticos intrínsecos nos dados.
-3. **Fatores de Estilo:** Características específicas das empresas que afetam seu desempenho financeiro.
+Para este problema, resolvi utilizar uma simplificação da metodologia de investimento por fatores. O investimento por fatores, também conhecido como factor investing, é uma abordagem fundamentada na identificação e exploração de variáveis específicas que influenciam os retornos dos ativos.
 
-## Metodologia
 
-Utilizamos uma abordagem baseada em dados, incluindo coleta de dados e análise quantitativa. O foco do projeto são os fatores de Estilo.
+
+
 
